@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 ###########################################################
-# written by Klug Michael for KNAPP (michiklug85(at)gmail.com)
+# written by Klug Michael (michiklug85(at)gmail.com)
 ###########################################################
 
 import re
